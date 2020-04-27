@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.0-web.0](https://github.com/react-navigation/react-navigation/tree/master/packages/core/compare/@react-navigation/core@5.3.5...@react-navigation/core@5.0.0-web.0) (2020-04-27)
+
+
+### Features
+
+* add `useLinkBuilder` hook to build links ([2792f43](https://github.com/react-navigation/react-navigation/tree/master/packages/core/commit/2792f438fe45428fe193e3708fee7ad61966cbf4))
+
+
+
+
+
 ## [5.3.5](https://github.com/react-navigation/react-navigation/tree/master/packages/core/compare/@react-navigation/core@5.3.4...@react-navigation/core@5.3.5) (2020-04-27)
 
 

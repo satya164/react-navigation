@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.0-web.0](https://github.com/react-navigation/react-navigation/tree/master/packages/native/compare/@react-navigation/native@5.1.7...@react-navigation/native@5.0.0-web.0) (2020-04-27)
+
+
+### Features
+
+* add `useLinkBuilder` hook to build links ([2792f43](https://github.com/react-navigation/react-navigation/tree/master/packages/native/commit/2792f438fe45428fe193e3708fee7ad61966cbf4))
+* add a useLinkProps hook ([f2291d1](https://github.com/react-navigation/react-navigation/tree/master/packages/native/commit/f2291d110faa2aa8e10c9133c1c0c28d54af7917))
+* add action prop to Link ([942d2be](https://github.com/react-navigation/react-navigation/tree/master/packages/native/commit/942d2be2c72720469475ce12ec8df23825994dbf))
+* add Link component as useLinkTo hook for navigating to links ([2573b5b](https://github.com/react-navigation/react-navigation/tree/master/packages/native/commit/2573b5beaac1240434e52f3f57bb29da2f541c88))
+
+
+
+
+
 ## [5.1.7](https://github.com/react-navigation/react-navigation/tree/master/packages/native/compare/@react-navigation/native@5.1.6...@react-navigation/native@5.1.7) (2020-04-27)
 
 **Note:** Version bump only for package @react-navigation/native
