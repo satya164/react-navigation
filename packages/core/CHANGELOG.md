@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.0-web.1](https://github.com/react-navigation/react-navigation/tree/master/packages/core/compare/@react-navigation/core@5.3.5...@react-navigation/core@5.0.0-web.1) (2020-04-29)
+
+
+### Bug Fixes
+
+* handle empty paths when parsing ([c3fa83e](https://github.com/react-navigation/react-navigation/tree/master/packages/core/commit/c3fa83efe0d73db76365f8be3d6a8ca1d1289b71))
+
+
+### Features
+
+* add `useLinkBuilder` hook to build links ([2792f43](https://github.com/react-navigation/react-navigation/tree/master/packages/core/commit/2792f438fe45428fe193e3708fee7ad61966cbf4))
+
+
+
+
+
 # [5.0.0-web.0](https://github.com/react-navigation/react-navigation/tree/master/packages/core/compare/@react-navigation/core@5.3.5...@react-navigation/core@5.0.0-web.0) (2020-04-27)
 
 
