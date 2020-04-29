@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.0-web.2](https://github.com/react-navigation/react-navigation/tree/master/packages/bottom-tabs/compare/@react-navigation/bottom-tabs@5.2.8...@react-navigation/bottom-tabs@5.0.0-web.2) (2020-04-29)
+
+
+### Features
+
+* add `useLinkBuilder` hook to build links ([2792f43](https://github.com/react-navigation/react-navigation/tree/master/packages/bottom-tabs/commit/2792f438fe45428fe193e3708fee7ad61966cbf4))
+* add action prop to Link ([942d2be](https://github.com/react-navigation/react-navigation/tree/master/packages/bottom-tabs/commit/942d2be2c72720469475ce12ec8df23825994dbf))
+
+
+
+
+
 # [5.0.0-web.1](https://github.com/react-navigation/react-navigation/tree/master/packages/bottom-tabs/compare/@react-navigation/bottom-tabs@5.2.8...@react-navigation/bottom-tabs@5.0.0-web.1) (2020-04-29)
 
 
